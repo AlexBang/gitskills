@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D137DEF2-3DA0-47DD-B379-93D4D0BEED2C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SimpleNews</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0E0F775E974560ACC57E15F29FF9C3970278BCA1</key>
+		<string>github.com:AlexBang/gitskills.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SimpleNews/SimpleNews.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0E0F775E974560ACC57E15F29FF9C3970278BCA1</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:AlexBang/gitskills.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0E0F775E974560ACC57E15F29FF9C3970278BCA1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0E0F775E974560ACC57E15F29FF9C3970278BCA1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>gitskills</string>
+		</dict>
+	</array>
+</dict>
+</plist>

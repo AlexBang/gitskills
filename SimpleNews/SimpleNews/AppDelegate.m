@@ -101,6 +101,7 @@ static AppDelegate * _appDelegate;
     {
         [UIView performWithoutAnimation:^{
             _curtainV.backgroundColor = [UIColor colorWithRed:0 green:0 blue:0 alpha:0.5];
+            NSLog(@"我修改了一个文件");
         }];
     }else
     {
