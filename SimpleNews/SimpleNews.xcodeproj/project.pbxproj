@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		C239C54B1B17EF1300FE4DBE /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C239C54A1B17EF1300FE4DBE /* main.m */; };
 		C239C54E1B17EF1300FE4DBE /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C239C54D1B17EF1300FE4DBE /* AppDelegate.m */; };
-		C239C5511B17EF1300FE4DBE /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C239C5501B17EF1300FE4DBE /* ViewController.m */; };
 		C239C5541B17EF1300FE4DBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C239C5521B17EF1300FE4DBE /* Main.storyboard */; };
 		C239C5561B17EF1300FE4DBE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C239C5551B17EF1300FE4DBE /* Images.xcassets */; };
 		C239C5591B17EF1300FE4DBE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C239C5571B17EF1300FE4DBE /* LaunchScreen.xib */; };
@@ -132,8 +131,6 @@
 		C239C54A1B17EF1300FE4DBE /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		C239C54C1B17EF1300FE4DBE /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		C239C54D1B17EF1300FE4DBE /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		C239C54F1B17EF1300FE4DBE /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		C239C5501B17EF1300FE4DBE /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		C239C5531B17EF1300FE4DBE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		C239C5551B17EF1300FE4DBE /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		C239C5581B17EF1300FE4DBE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
@@ -358,8 +355,6 @@
 			children = (
 				C239C54C1B17EF1300FE4DBE /* AppDelegate.h */,
 				C239C54D1B17EF1300FE4DBE /* AppDelegate.m */,
-				C239C54F1B17EF1300FE4DBE /* ViewController.h */,
-				C239C5501B17EF1300FE4DBE /* ViewController.m */,
 				C239C56E1B17F1A900FE4DBE /* StartAnimation */,
 				C239C5791B1808ED00FE4DBE /* LeftDrawer */,
 				C239C57D1B180EFA00FE4DBE /* MainInterface */,
@@ -936,7 +931,6 @@
 				C2EA483C1B1C417500AB894F /* LLBlurSidebar.m in Sources */,
 				C28CC4601B199E6900974F04 /* SDWebImageManager.m in Sources */,
 				C28CC47D1B19A9EB00974F04 /* HeadCell.m in Sources */,
-				C239C5511B17EF1300FE4DBE /* ViewController.m in Sources */,
 				C239C54E1B17EF1300FE4DBE /* AppDelegate.m in Sources */,
 				C28CC45F1B199E6900974F04 /* SDWebImageDownloaderOperation.m in Sources */,
 				C2C32B0C1B1EFF3C00144CF6 /* ImgTableViewCell.m in Sources */,
