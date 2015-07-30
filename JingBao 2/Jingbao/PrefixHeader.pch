@@ -1,0 +1,20 @@
+//
+//  PrefixHeader.pch
+//  Jingbao
+//
+//  Created by mac on 15/7/28.
+//  Copyright (c) 2015年 mac. All rights reserved.
+//
+
+#ifndef Jingbao_PrefixHeader_pch
+#define Jingbao_PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or
+
+#import "Size.h"
+#import "Header.h"
+#import "UIView+Extension.h"
+#import "AFHTTPRequestOperationManager.h"
+#import "AFHTTPSessionManager.h"
+#endif
